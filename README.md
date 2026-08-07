@@ -6,4 +6,4 @@
 
 📚 This profile also hosts coursework projects from my degree (MATLAB).
 
-💬 Feel free to connect on LinkedIn.
+💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/pietro-costantini-686122304/) or [ResearchGate](https://www.researchgate.net/profile/Pietro-Costantini-2).

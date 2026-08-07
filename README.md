@@ -1,9 +1,9 @@
-ðŸ‘‹ Hi, I'm Pietro â€” a Space Engineering graduate (Politecnico di Milano).
+👋 Hi, I'm Pietro — a Space Engineering graduate (Politecnico di Milano).
 
-ðŸ›°ï¸ My academic background is in satellite control, mission design and orbit dynamics.
+🛰️ My academic background is in satellite control, mission design and orbit dynamics.
 
-ðŸ§‘â€ðŸ’» In my free time I build **Jungle**, a small personal project made of independent apps â€” starting with [lagoon-app](https://github.com/JJTropie25/lagoon-app) and [lagoon-web](https://github.com/JJTropie25/lagoon-web).
+🧑‍💻 In my free time I build **Jungle**, a small personal project made of independent apps — starting with [lagoon-app](https://github.com/JJTropie25/lagoon-app) and [lagoon-web](https://github.com/JJTropie25/lagoon-web).
 
-ðŸ“š This profile also hosts coursework projects from my degree (MATLAB).
+📚 This profile also hosts coursework projects from my degree (MATLAB).
 
-ðŸ’¬ Feel free to connect on LinkedIn.
+💬 Feel free to connect on LinkedIn.
